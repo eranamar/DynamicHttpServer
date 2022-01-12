@@ -1,0 +1,54 @@
+body, p {
+	font-family:Arial,Verdana,Sans-serif;
+    font-size:1.2em;
+	line-height:1.5em;
+	letter-spacing:0.05em;
+    word-spacing:0.1em;
+	direction:ltr;
+}
+body {
+	color:white;
+    background-color:#2F4F4F;
+    margin:50px 130px;
+	padding: 0;
+}
+h1 {
+    font-family:Arial,Verdana,Sans-serif;
+    line-height:1.5em;
+	letter-spacing:0.05em;
+    word-spacing:0.1em;
+    text-decoration:underline;
+}
+strong {
+    font-weight:bold;
+}
+em {
+	font-family:"Times New Roman",Georgia,Serif;
+    font-style:italic;
+}
+abbr {
+	color:#FFE7BA;
+}
+
+#my_img {
+	width:100%;
+	
+}
+#funny_img {
+	width:100%;
+}
+#image_section {
+    float:right;
+    width:35%;
+	text-align:center;
+	transform:rotate(10deg);
+}
+#funny_figure {
+	float:left;
+	text-align:center;
+}
+#personal_details  {
+    float:left;
+    width:65%;
+	font-size:2em;
+}
